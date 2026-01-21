@@ -16939,5 +16939,11 @@
     "https://mp.weixin.qq.com/s/P-zBho0S5gxUgX8CVjTVMw": "Cloudflare 修复可绕过 WAF 访问源服务器的 ACM 验证漏洞",
     "https://mp.weixin.qq.com/s/dhbggM7euhNdc_AHz3sjww": "【安全圈】WordPress 插件漏洞导致 10 万余个网站面临权限提升攻击风险",
     "https://mp.weixin.qq.com/s/4F2tY7AP-Qyi5Tak7lPVeg": "未来已来：漏洞挖掘智能体VulnAgent 发现两个Suricata 高危漏洞，并获官方致谢!",
-    "https://mp.weixin.qq.com/s/G5gYUhFb9FpBIsyA8-WWiA": "Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行"
+    "https://mp.weixin.qq.com/s/G5gYUhFb9FpBIsyA8-WWiA": "Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行",
+    "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）",
+    "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g": "攻防技巧|快速高效挖掘.net系统漏洞",
+    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare WAF 零日漏洞：可访问全球任何主机",
+    "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
+    "https://mp.weixin.qq.com/s/-fxvgoVz5GQU6mOzozYG6w": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+    "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g": "常见OAuth 漏洞：未验证token"
 }
