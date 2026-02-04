@@ -17562,5 +17562,16 @@
     "https://mp.weixin.qq.com/s/e1_jk64oB51phqyx1CvPtQ": "漏洞预警 | 金和OA XXE漏洞",
     "https://mp.weixin.qq.com/s/xK_BjSFHeGLY-oRH2-_N0A": "APT28 黑客利用 Microsoft Office 零日漏洞部署恶意软件",
     "https://mp.weixin.qq.com/s/-FPQQLC55DHIMCBYgsn8hg": "漏洞扫描工具 -- Vulnerability-scanning（2月3日更新）",
-    "https://mp.weixin.qq.com/s/3cWamDknrPpMIxukHU6G5g": "APT28借助微软Office 0-day漏洞发动“Neusploit”定向攻击"
+    "https://mp.weixin.qq.com/s/3cWamDknrPpMIxukHU6G5g": "APT28借助微软Office 0-day漏洞发动“Neusploit”定向攻击",
+    "https://mp.weixin.qq.com/s/9Hx6N56g8GZFlEEL60mR6w": "第1期：漏洞挖掘入门｜定义、分类与标准化挖掘流程（附合法靶场清单）",
+    "https://mp.weixin.qq.com/s/_a_iDUzZ5fukOib-I9T93g": "用友NC importCombo XXE漏洞",
+    "https://mp.weixin.qq.com/s/i1OIq6jzb1pRuyop9MnS6A": "SRC高危漏洞狩猎：从“漏洞复现”到“降维打击”的实战引擎",
+    "https://mp.weixin.qq.com/s/_olCaV7VJWGAKLpL5R48Ow": "无法反弹SHELL的RCE利用",
+    "https://mp.weixin.qq.com/s/pcoh03ivOSxEVyyCsINxgw": "紧急预警！俄罗斯APT28锁定中东欧，Office零日漏洞成攻击利器，邮件偷取+远程控制防不胜防",
+    "https://mp.weixin.qq.com/s/FmmnIfSDQp80Nfpw7mu8SQ": "Nacos默认key导致权限绕过登陆漏洞 附POC",
+    "https://mp.weixin.qq.com/s/0r9DRCOmps_tGds6gG_thg": "0126.我是如何通过发现公开漏洞赏金计划中的一个严重 SQL 注入漏洞而获得巨额奖金的。",
+    "https://mp.weixin.qq.com/s/3YA6L_IlCrkzbDbrVDCMrw": "综合漏洞后渗透利用工具",
+    "https://mp.weixin.qq.com/s/bmoOUbydU7Bes-XH0AkopQ": "14.9万星AI个人助手OpenClaw曝高危漏洞",
+    "https://mp.weixin.qq.com/s/N2V5skUr__EJtCZ4PWRdUg": "已复现！大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/EpY0aTJjGrv-qSx9n8wbkA": "CVE-2026-20820 clfs.sys堆溢出"
 }
