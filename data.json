@@ -17634,5 +17634,11 @@
     "https://mp.weixin.qq.com/s/Bs9KTXzK4h6CCiG5bcpYdw": "Jeecg-Boot 远程命令执行漏洞 附POC",
     "https://mp.weixin.qq.com/s/g20n1TKgee7TWFuKcfLyCg": "路径遍历+DLL劫持：Meta的11万美元漏洞链复盘",
     "https://mp.weixin.qq.com/s/QM9jyB_8NEGzZr2obNdoWg": "工业警报：Moxa 开关遭遇严重认证绕过漏洞 (CVSS 9.2)",
-    "https://mp.weixin.qq.com/s/a6382uLO8Q7YnH6GGo6Fdw": "Django 高危漏洞可引发拒绝服务与 SQL 注入攻击"
+    "https://mp.weixin.qq.com/s/a6382uLO8Q7YnH6GGo6Fdw": "Django 高危漏洞可引发拒绝服务与 SQL 注入攻击",
+    "https://mp.weixin.qq.com/s/LK_FC4z-3lcZ_rzlvmAxOw": "新政策出台，数据安全、风险评估、漏洞管理市场需求或将迎来激增",
+    "https://mp.weixin.qq.com/s/lcz0eEe-I8IMvDehxDmesg": "Chrome 漏洞可导致攻击者执行任意代码并引发系统崩溃",
+    "https://mp.weixin.qq.com/s/dbJhEjVo6RkT82HHY39iew": "【工具】VueCrack-一键检测Vue站点未授权漏洞",
+    "https://mp.weixin.qq.com/s/RYHlkQ3l3-CPIHQQasdDaw": "记一次APP应组件问题引起的连锁漏洞反应！",
+    "https://mp.weixin.qq.com/s/8k-sBYU44CCtoWzVHZ4vtg": "致远OA指纹和漏洞POC集成",
+    "https://mp.weixin.qq.com/s/x7tbBKYj5lbMjegp-j9T3Q": "漏洞预警 | OpenClaw 远程代码执行漏洞（CVE-2026-25253）"
 }
