@@ -17802,5 +17802,15 @@
     "https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA": "SRC挖洞的立体化作战：从“撒网捕鱼”到“精准狙击”的工业级漏洞狩猎体系",
     "https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA": "某天第一个RCE记录",
     "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）",
-    "https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA": "Windows内核溢出漏洞——栈溢出保护(上篇)"
+    "https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA": "Windows内核溢出漏洞——栈溢出保护(上篇)",
+    "https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA": "【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111)",
+    "https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw": "Everything - Post Exploitation",
+    "https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A": "天堂之门：发现谷歌云 Apigee 中的跨租户漏洞",
+    "https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w": "殡仪馆 AshesSearch.jsp 存在信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ": "企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！",
+    "https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA": "确认！欧盟委员会遭网络攻击：祸起Ivanti产品漏洞",
+    "https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw": "GOGS 严重缺陷（CVSS 9.3）允许远程代码执行和绕过双因素认证",
+    "https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg": "漏洞预警 | Google Chrome类型混淆漏洞",
+    "https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw": "工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞"
 }
